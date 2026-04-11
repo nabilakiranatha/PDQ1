@@ -9,7 +9,7 @@ public class latihanPerulangan {
         System.out.println("=== Selamat Datang di Inimaret ===");
 
         for (int i = 1; i <= 5; i++) {
-            System.out.println("\nInput Barang ke-" + i);
+            System.out.println("\nBarang ke-" + i);
             
             System.out.print("Nama Barang  : ");
             String nama = input.nextLine();
