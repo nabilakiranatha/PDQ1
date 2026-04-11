@@ -6,7 +6,7 @@ public class latihanPerulangan {
         long totalBayar = 0;
         String daftarBarang = "";
         
-        System.out.println("=== Selamat Datang di Inimaret (Maksimal 5 Barang) ===");
+        System.out.println("=== Selamat Datang di Inimaret ===");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("\nInput Barang ke-" + i);
