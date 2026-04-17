@@ -34,10 +34,5 @@ public class pendaftaranOrganisasi {
         System.out.println("-------------------------------------------");
 
         input.close();
-    }
+    }   
 }
-
-    
-
-
-        
