@@ -76,7 +76,7 @@ public class latihanArray1D {
                         for (int i = 0; i < kategori.length; i++) {
 
                             // cetak pilihan kategori dan harga apa saja
-                            System.out.println("Kategori: " + kategori[i] + " | Harga: Rp" + harga[i]);
+                            System.out.println("Kategori: " + kategori[i] + " | Harga: Rp "  + harga[i]);
                             System.out.print("Jumlah tiket yang ingin dibeli: ");
                             jumlahBeli[i] = sc.nextInt();
                         }
